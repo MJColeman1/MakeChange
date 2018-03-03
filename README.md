@@ -20,7 +20,7 @@ The exact currency returned to the customer will be provided i.e. how many ten d
 
 #### How To Run This Project
 
-To run this project, enter the price of the item you'd like to purchase. Next, the amount of money tendered to pay for the item. If funds are insufficient, you will be prompted again to enter the price of the item and the amount of money tendered to pay for the item.
+To run this project, enter the price of the item you'd like to purchase. Next, enter the amount of money tendered to pay for the item. If funds are insufficient, you will be prompted again to enter the price of the item and the amount of money tendered to pay for the item.
 
 #### Lessons Learned
 
